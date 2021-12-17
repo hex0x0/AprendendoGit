@@ -6,11 +6,16 @@ public class Pessoa{
 
     }
 
+    public Pessoa(String nome, int idade){
+        setNome(nome);
+        setIdade(idade);
+    }
+
     public String getString(){
         return this.nome;
     }
 
-    public void setString(String nome){
+    public void setNome(String nome){
         this.nome = nome;
     }
 
