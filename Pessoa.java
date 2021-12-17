@@ -11,7 +11,7 @@ public class Pessoa{
         setIdade(idade);
     }
 
-    public String getString(){
+    public String getNome(){
         return this.nome;
     }
 
@@ -28,7 +28,7 @@ public class Pessoa{
     }
 
     public String toString(){
-        return "Pessoa: " + pessoa + " | " + "Idade: " + idade;
+        return "Pessoa: " + this.nome + " | " + "Idade: " + this.idade;
     }
   
     

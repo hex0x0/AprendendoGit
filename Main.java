@@ -3,10 +3,10 @@ public class Main{
         System.out.println("Primeiro commit");
         Pessoa p = new Pessoa();
 
-        p.setString("Lucas");
+        p.setNome("Lucas");
         p.setIdade(12);
 
-        System.out.prinln(p);
+        System.out.println(p);
 
         
 
