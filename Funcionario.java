@@ -1,4 +1,14 @@
 public class Funcionario extends Pessoa{
-    dfjkasdljfkldslfkldslkaf
-    kfdlaksjfkldsalkjfdslkflksd
+   private int id;
+
+   public Funcionario(){
+        super();
+   }
+
+   public int getId(){
+       return this.id;
+   }
+
+   
+
 }
