@@ -19,4 +19,4 @@ Como dizia um antigo mestre da filosofia pantagruélica:
 
 - [x] Implementar a classe XYZ do pacote SOCORRO_DEUS
 - [x] Complementar a minha renda com a venda de arte na praia
-- [] Dominar o mundo e submeter todos ao meu jugo
+- [ ] Dominar o mundo e submeter todos ao meu jugo
