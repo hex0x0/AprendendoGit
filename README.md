@@ -13,3 +13,6 @@ Esse *repositório* é apenas para testes e não pretende ser uma exposição s�
 1. Sou apenas um estudante tentando aprender alguma coisa
 2. O que disse logo acima
 3. Por que eu estou escrevendo isso mesmo?
+
+Como dizia um antigo mestre da filosofia pantagruélica: 
+> Deus me livre!!!!
